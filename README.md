@@ -1,2 +1,2 @@
 # git_blog
-git_blog for me
+git-blog for me
